@@ -23,6 +23,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 	</properties>
+	<distributionManagement>
 	<repositories>
   <repository>
     <id>central</id>
@@ -34,6 +35,7 @@
     </snapshots>
   </repository>
 </repositories>
+</distributionManagement>
 	
 	<dependencies>
 		<dependency>
