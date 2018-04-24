@@ -23,14 +23,15 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 	</properties>
-	
-    	<repository>
+	<repositories>
+    		<repository>
       		<uniqueVersion>false</uniqueVersion>
       		<id>central</id>
       		<name>Repository</name>
       		<url>http://repo1.maven.org/maven2</url>
      		<layout>default</layout>
-    	</repository>
+    		</repository>
+	</repositories>
 	
 	<dependencies>
 		<dependency>
