@@ -24,7 +24,6 @@
 		<java.version>1.8</java.version>
 	</properties>
 	<distributionManagement>
-	<repositories>
   <repository>
     <id>central</id>
     <name>Maven Repository Switchboard</name>
@@ -34,7 +33,6 @@
       <enabled>false</enabled>
     </snapshots>
   </repository>
-</repositories>
 </distributionManagement>
 	
 	<dependencies>
